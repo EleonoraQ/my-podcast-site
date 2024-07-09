@@ -37,12 +37,19 @@ nav ul li a {
 .hero {
     text-align: center;
     padding: 50px 20px;
+    font-size: 40px;
 }
 
 .content {
     background-color: #4B288A;
     padding: 20px;
     text-align: center;
+}
+p.author{
+    font-size: 25px;
+}
+p.callToAction{
+    font-size: 30px;
 }
 
 .episodes {
@@ -53,7 +60,7 @@ nav ul li a {
 }
 
 .episode-card {
-    background-color: #fff;
+    background-color: #D4AF37;
     color: #333;
     padding: 20px;
     border-radius: 8px;
